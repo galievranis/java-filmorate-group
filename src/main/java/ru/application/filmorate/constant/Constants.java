@@ -1,4 +1,4 @@
-package ru.application.filmorate.storage.util.constant;
+package ru.application.filmorate.constant;
 
 import java.util.Set;
 
